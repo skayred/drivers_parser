@@ -5,7 +5,7 @@ require 'json'
 @domain = 'http://www.taxodrom.ru%s';
 generic_url = 'http://www.taxodrom.ru/private-taxi?page=%d'
 start_number = 0
-end_number = 2
+end_number = 65
 
 drivers = Array.new
 
